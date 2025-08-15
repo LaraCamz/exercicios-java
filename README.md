@@ -12,3 +12,18 @@ Repositório com diversos exercícios em Java, organizados por tema e dificuldad
 
 Dentro de cada subpasta de tema, cada exercício é um **projeto do NetBeans completo**:
 
+fundamentos/
+└─ Exercicio01/
+├─ src/
+├─ nbproject/
+└─ build.xml
+
+
+---
+
+## Como usar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/SEU_USUARIO/exercicios-java.git
